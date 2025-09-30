@@ -1,2 +1,9 @@
-# portfolio-optimization-efficient-frontier
-Mean-variance optimization of a 5-ETF portfolio with efficient frontier visualization using Python
+## Overview
+This project implements a mean-variance optimization for a 5-ETF portfolio, calculates optimal weights, and visualizes the efficient frontier.  
+
+## Skills/Tools
+- Python
+- NumPy, pandas
+- Matplotlib
+- SciPy
+- yFinance
